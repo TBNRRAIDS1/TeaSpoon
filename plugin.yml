@@ -1,8 +1,8 @@
-name: TeaSpoon
-main: CortexPE\Main
+name: VerCore
+main: VerifiedPE\Main
 version: 1.2.0
 api: 3.9.0
 load: STARTUP
-author: CortexPE
+author: VerifiedPE
 description: A PLUGIN to Extend PMMP's Functionality without completely changing it.
 website: https://CortexPE.xyz
